@@ -21,7 +21,7 @@ A simple and responsive password generator built using **React**. Generate secur
 
 ## 📸 Screenshot
 
-![Password Generator Screenshot](screenshot.png)
+![Password Generator Screenshot](assets/Password generator.png)
 
 
 ## 📦 Getting Started
@@ -29,5 +29,5 @@ A simple and responsive password generator built using **React**. Generate secur
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/Divyanshu-Mahajan/password-generator.git
 cd password-generator
